@@ -1,5 +1,5 @@
 # Android-Phone-Bypass-KYC-verification---No-root-required
-Need to verify your account online through browser or phone app?   Bypass KYC verifications with Vol Cam tool. 
+Need to verify your account online through browser or phone app?   Bypass KYC verifications with Virtucam tool. 
 Here we show you how you can browse online with your phone to verify you identity.
 
 https://youtu.be/1hL4FwmXgmU
@@ -9,7 +9,7 @@ https://t.me/VirtuCamKyc
 
 
 
- New Non Rooted version of Volcamtool PRO+ working on Cable (OBS Studio)
+ New Non Rooted version of Virtucam working on Cable (OBS Studio)
  
 - No Root
 - Works on any Android Phone
