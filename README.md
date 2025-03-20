@@ -4,11 +4,6 @@ Here we show you how you can browse online with your phone to verify you identit
 
 https://youtu.be/1hL4FwmXgmU
 
-Channel
-https://t.me/VirtuCamKyc
-
-
-
  New Non Rooted version of Virtucam working on Cable (OBS Studio)
  
 - No Root
