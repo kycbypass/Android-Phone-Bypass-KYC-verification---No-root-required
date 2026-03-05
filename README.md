@@ -2,7 +2,7 @@
 Need to verify your account online through browser or phone app?   Bypass KYC verifications with Virtucam tool. 
 Here we show you how you can browse online with your phone to verify you identity.
 
-https://youtu.be/tYss4sr8JJU
+https://t.me/volcamkyclinks
 
  New Non Rooted version of Virtucam working on Cable (OBS Studio)
  
